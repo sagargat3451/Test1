@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-01T23:42:17 IST" name="Default suite" finished-at="2023-08-01T23:42:23 IST" duration-ms="6087">
+  <suite started-at="2023-08-01T23:58:34 IST" name="Default suite" finished-at="2023-08-01T23:58:40 IST" duration-ms="5549">
     <groups>
     </groups>
-    <test started-at="2023-08-01T23:42:17 IST" name="Default test" finished-at="2023-08-01T23:42:23 IST" duration-ms="6087">
+    <test started-at="2023-08-01T23:58:34 IST" name="Default test" finished-at="2023-08-01T23:58:40 IST" duration-ms="5549">
       <class name="TestLayer.RegisterPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.RegisterPageTest@13fd2ccd]" started-at="2023-08-01T23:42:17 IST" name="setUp" finished-at="2023-08-01T23:42:21 IST" duration-ms="4052" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.RegisterPageTest@13fd2ccd]" started-at="2023-08-01T23:58:34 IST" name="setUp" finished-at="2023-08-01T23:58:38 IST" duration-ms="3670" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validateRegisterFunctionality()[pri:0, instance:TestLayer.RegisterPageTest@13fd2ccd]" started-at="2023-08-01T23:42:21 IST" name="validateRegisterFunctionality" finished-at="2023-08-01T23:42:23 IST" duration-ms="1923" status="PASS">
+        <test-method signature="validateRegisterFunctionality()[pri:0, instance:TestLayer.RegisterPageTest@13fd2ccd]" started-at="2023-08-01T23:58:38 IST" name="validateRegisterFunctionality" finished-at="2023-08-01T23:58:40 IST" duration-ms="1778" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateRegisterFunctionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestLayer.RegisterPageTest@13fd2ccd]" started-at="2023-08-01T23:42:23 IST" name="tearDown" finished-at="2023-08-01T23:42:23 IST" duration-ms="83" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestLayer.RegisterPageTest@13fd2ccd]" started-at="2023-08-01T23:58:40 IST" name="tearDown" finished-at="2023-08-01T23:58:40 IST" duration-ms="77" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
